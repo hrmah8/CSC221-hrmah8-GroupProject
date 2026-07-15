@@ -8,8 +8,8 @@ hrmah8@my.waketech.edu
 This project collects data from the REST Countries API using Python and stores the information in a CSV file for future visualization.
 
 ## URL for Data Collection
-REST Countires API
-https://restcountries.com/v3.1/all
+Products API
+"https://dummyjson.com/products?limit=100"
 
 ## Collaborator
 Chandler Riley
