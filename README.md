@@ -13,4 +13,6 @@ Products API
 
 ## Collaborator
 Chandler Riley
-ChandlerG@my.waketech.edu
+cgriley@my.waketech.edu
+
+Accepted: July 18th, 2026
